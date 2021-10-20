@@ -9,12 +9,12 @@ import subprocess
 
 from nltk.corpus.reader.framenet import FramenetCorpusReader
 
-nada = input("Y tu que miras payaso")
+nada = input("Y tu que miras payaso? ")
 nada = input("que coño quieres ")
 nada = input("te lematizo o que ")
 nada = input("que me ANSIo  ")
 telematizo = input("que quieres que te lematize primero? ")
-print('Voy')
+print('Voy \n')
 
 logging.basicConfig(format="%(levelname)s - %(asctime)s: %(message)s", datefmt= '%H:%M:%S',filename='.\log\log.log', level=logging.DEBUG)
 corpusTXT = open('.\corpus\corpusTXT.txt', 'w')
@@ -56,7 +56,7 @@ palabras = [nltk.word_tokenize(sent) for sent in frases]
 logging.debug('[LEM]-->Tokenizacion de palabras completada')
 logging.debug('[LEM]-->Tiempo de Tokenizacion de palabras: {} mins'.format(round((time() - t) / 60, 2)))
 
-print('withdrawing the palabras de parada (fuckoff maldita)...')
+print('withdrawing the palabras de parada (fuckoff maldita)... \n')
 t = time()
 for i in range(len(palabras)):
     palabras[i] = [w for w in palabras[i] if w not in stopwords.words('spanish')]
@@ -65,14 +65,14 @@ for i in range(len(palabras)):
     Prelematizado.write(Frase)
     Frase = bytearray('\n'.encode('utf-8'))
     Prelematizado.write(Frase)
-    print(palabras[i])
 
 logging.debug('[LEM]-->Retiradas palabras de parada')
 logging.debug('[LEM]-->Tiempo de Retiradas palabras de parada: {} mins \n'.format(round((time() - t) / 60, 2)))
+print('withdrawing the palabras de parada (fuckoff maldita)...\n')
 
 Prelematizado.close()
 logging.debug('[LEM]-->Tiempo de ejecución completa del lematizador: {} mins'.format(round((time() - t_general) / 60, 2)))
-
+print('\n Mandando cosas para que te devuelvan cosas\n')
 subprocess.call('curl -F file=@'+Prelematizado2FL+' "http://www.corpus.unam.mx/servicio-freeling/analyze.php?outf=tagged&format=plain" -o ' + Lematizado2FL, shell = True)
 
 
