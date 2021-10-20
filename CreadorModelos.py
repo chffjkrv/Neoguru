@@ -23,7 +23,7 @@ for archivo in corpus:
     txt = txt.lower()
     txt = re.sub('[0-9]|[\(]|[\)]|[#]|[-]|[\[]|[\]]|[\']|[¿]|[?]|[¡]|[!]|[,]|[.]|[:]|[;]', ' ', txt)
     corpusTXT.write(txt)
-
+    cont=+1
     logging.debug('van '+ str(cont) +' libros normalizados en memoria')
 corpusTXT.close()
 
@@ -41,7 +41,6 @@ frases = nltk.sent_tokenize(texto)
 print(type(frases))
 logging.debug('Tokenizacion de frases completada') 
 logging.debug('Tiempo de Tokenizacion de frases: {} mins \n'.format(round((time() - t) / 60, 2)))
-
 
 t = time()
 palabras = [nltk.word_tokenize(sent) for sent in frases]
@@ -78,7 +77,7 @@ modeloW2V.train(palabras, total_examples=modeloW2V.corpus_count, epochs=30, repo
 logging.debug('Entrenamiento del modelo COMPLETADiSIMO \n')
 logging.debug('Tiempo de entrenamiento: {} mins \n'.format(round((time() - t) / 60, 2)))
 
-modeloW2V.save('ModeloBiblico2.model')
+modeloW2V.save('Supermentonen.model')
 
 
 

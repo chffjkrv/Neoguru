@@ -1,6 +1,0 @@
-van 1 libros normalizados en memoriaEl texto tiene un tamanio en memoria de8.092292 Mb 
-Normalizacion del texto terminada 
-Tiempo de normalizacion: 0.02 mins 
-Tokenizacion de frases completadaTiempo de Tokenizacion de frases: 0.04 mins 
-Tokenizacion de palabras completada 
-Tiempo de Tokenizacion de palabras: 0.12 mins 

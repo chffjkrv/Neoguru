@@ -8551,3 +8551,2187 @@ DEBUG - 01:19:49: Tokenizacion de palabras completada
 
 DEBUG - 01:19:49: Tiempo de Tokenizacion de palabras: 0.03 mins 
 
+DEBUG - 22:59:30: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 22:59:31: [LEM]-->El texto tiene un tamanio en memoria de8.081668 Mb 
+
+DEBUG - 22:59:31: [LEM]-->Normalizacion del texto terminada 
+
+DEBUG - 22:59:31: [LEM]-->Tiempo de normalizacion: 0.02 mins 
+
+DEBUG - 22:59:32: [LEM]-->Tokenizacion de frases completada
+DEBUG - 22:59:32: [LEM]-->Tiempo de Tokenizacion de frases: 0.01 mins 
+
+DEBUG - 22:59:36: [LEM]-->Tokenizacion de palabras completada 
+
+DEBUG - 22:59:36: [LEM]-->Tiempo de Tokenizacion de palabras: 0.07 mins 
+
+DEBUG - 23:00:10: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:00:10: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:00:11: [LEM]-->El texto tiene un tamanio en memoria de8.081668 Mb 
+
+DEBUG - 23:00:11: [LEM]-->Normalizacion del texto terminada 
+
+DEBUG - 23:00:11: [LEM]-->Tiempo de normalizacion: 0.02 mins 
+
+DEBUG - 23:00:12: [LEM]-->Tokenizacion de frases completada
+DEBUG - 23:00:12: [LEM]-->Tiempo de Tokenizacion de frases: 0.01 mins 
+
+DEBUG - 23:00:16: [LEM]-->Tokenizacion de palabras completada 
+
+DEBUG - 23:00:16: [LEM]-->Tiempo de Tokenizacion de palabras: 0.07 mins 
+
+DEBUG - 23:00:51: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:00:51: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:00:52: [LEM]-->El texto tiene un tamanio en memoria de8.081668 Mb 
+
+DEBUG - 23:00:52: [LEM]-->Normalizacion del texto terminada 
+
+DEBUG - 23:00:52: [LEM]-->Tiempo de normalizacion: 0.02 mins 
+
+DEBUG - 23:00:53: [LEM]-->Tokenizacion de frases completada
+DEBUG - 23:00:53: [LEM]-->Tiempo de Tokenizacion de frases: 0.01 mins 
+
+DEBUG - 23:00:57: [LEM]-->Tokenizacion de palabras completada 
+
+DEBUG - 23:00:57: [LEM]-->Tiempo de Tokenizacion de palabras: 0.07 mins 
+
+DEBUG - 23:04:06: [LEM]-->Retiradas palabras de parada 
+
+DEBUG - 23:04:06: [LEM]-->Tiempo de Retiradas palabras de parada: 3.15 mins 
+
+DEBUG - 23:04:06: [LEM]-->Tiempo de ejecución completa del lematizador: 3.25 mins 
+
+DEBUG - 23:05:27: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:05:27: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:05:28: [LEM]-->El texto tiene un tamanio en memoria de8.081668 Mb
+DEBUG - 23:05:28: [LEM]-->Normalizacion del texto terminada
+DEBUG - 23:05:28: [LEM]-->Tiempo de normalizacion: 0.02 mins
+DEBUG - 23:05:29: [LEM]-->Tokenizacion de frases completada
+DEBUG - 23:05:29: [LEM]-->Tiempo de Tokenizacion de frases: 0.01 mins
+DEBUG - 23:05:33: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 23:05:33: [LEM]-->Tiempo de Tokenizacion de palabras: 0.07 mins
+DEBUG - 23:08:41: [LEM]-->Retiradas palabras de parada
+DEBUG - 23:08:41: [LEM]-->Tiempo de Retiradas palabras de parada: 3.14 mins 
+
+DEBUG - 23:08:41: [LEM]-->Tiempo de ejecución completa del lematizador: 3.24 mins
+DEBUG - 23:09:18: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:09:18: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:09:20: [LEM]-->El texto tiene un tamanio en memoria de8.081668 Mb
+DEBUG - 23:09:20: [LEM]-->Normalizacion del texto terminada
+DEBUG - 23:09:20: [LEM]-->Tiempo de normalizacion: 0.02 mins
+DEBUG - 23:09:21: [LEM]-->Tokenizacion de frases completada
+DEBUG - 23:09:21: [LEM]-->Tiempo de Tokenizacion de frases: 0.01 mins
+DEBUG - 23:09:25: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 23:09:25: [LEM]-->Tiempo de Tokenizacion de palabras: 0.07 mins
+DEBUG - 23:12:53: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:12:53: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:12:53: [LEM]-->El texto tiene un tamanio en memoria de8.081668 Mb
+DEBUG - 23:12:53: [LEM]-->Normalizacion del texto terminada
+DEBUG - 23:12:53: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 23:13:11: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:13:11: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:13:12: [LEM]-->El texto tiene un tamanio en memoria de8.081668 Mb
+DEBUG - 23:13:12: [LEM]-->Normalizacion del texto terminada
+DEBUG - 23:13:12: [LEM]-->Tiempo de normalizacion: 0.02 mins
+DEBUG - 23:13:13: [LEM]-->Tokenizacion de frases completada
+DEBUG - 23:13:13: [LEM]-->Tiempo de Tokenizacion de frases: 0.01 mins
+DEBUG - 23:13:17: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 23:13:17: [LEM]-->Tiempo de Tokenizacion de palabras: 0.07 mins
+DEBUG - 23:22:13: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:22:14: [LEM]-->El texto tiene un tamanio en memoria de8.081668 Mb
+DEBUG - 23:22:14: [LEM]-->Normalizacion del texto terminada
+DEBUG - 23:22:14: [LEM]-->Tiempo de normalizacion: 0.03 mins
+DEBUG - 23:22:15: [LEM]-->Tokenizacion de frases completada
+DEBUG - 23:22:15: [LEM]-->Tiempo de Tokenizacion de frases: 0.01 mins
+DEBUG - 23:22:19: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 23:22:19: [LEM]-->Tiempo de Tokenizacion de palabras: 0.07 mins
+DEBUG - 23:25:29: [LEM]-->Retiradas palabras de parada
+DEBUG - 23:25:29: [LEM]-->Tiempo de Retiradas palabras de parada: 3.16 mins 
+
+DEBUG - 23:25:29: [LEM]-->Tiempo de ejecución completa del lematizador: 3.27 mins
+DEBUG - 23:57:15: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:57:15: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 23:57:16: [LEM]-->El texto tiene un tamanio en memoria de8.081668 Mb
+DEBUG - 23:57:16: [LEM]-->Normalizacion del texto terminada
+DEBUG - 23:57:16: [LEM]-->Tiempo de normalizacion: 0.02 mins
+DEBUG - 23:57:17: [LEM]-->Tokenizacion de frases completada
+DEBUG - 23:57:17: [LEM]-->Tiempo de Tokenizacion de frases: 0.01 mins
+DEBUG - 23:57:21: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 23:57:21: [LEM]-->Tiempo de Tokenizacion de palabras: 0.07 mins
+DEBUG - 00:00:28: [LEM]-->Retiradas palabras de parada
+DEBUG - 00:00:28: [LEM]-->Tiempo de Retiradas palabras de parada: 3.11 mins 
+
+DEBUG - 00:00:28: [LEM]-->Tiempo de ejecución completa del lematizador: 3.22 mins
+DEBUG - 21:17:45: van 1 libros normalizados en memoria
+DEBUG - 21:21:50: El texto tiene un tamanio en memoria de4.9e-05 Mb 
+
+DEBUG - 21:21:50: Normalizacion del texto terminada 
+
+DEBUG - 21:21:50: Tiempo de normalizacion: 0.0 mins 
+
+DEBUG - 21:21:50: Tokenizacion de frases completada
+DEBUG - 21:21:50: Tiempo de Tokenizacion de frases: 0.0 mins 
+
+DEBUG - 21:21:50: Tokenizacion de palabras completada 
+
+DEBUG - 21:21:50: Tiempo de Tokenizacion de palabras: 0.0 mins 
+
+DEBUG - 21:21:50: Retiradas palabras de parada 
+
+DEBUG - 21:21:50: Tiempo de Retiradas palabras de parada: 0.0 mins 
+
+DEBUG - 21:21:50: starting a new internal lifecycle event log for Word2Vec
+INFO - 21:21:50: Word2Vec lifecycle event {'params': 'Word2Vec(vocab=0, vector_size=100, alpha=0.03)', 'datetime': '2021-10-20T21:21:50.892786', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'created'}
+DEBUG - 21:21:50: Creación del modelo 
+
+DEBUG - 21:21:50: Tiempo de creacion del modelo: 0.0 mins 
+
+INFO - 21:21:50: collecting all words and their counts
+INFO - 21:21:50: collected 0 word types from a corpus of 0 raw words and 0 sentences
+INFO - 21:21:50: Creating a fresh vocabulary
+INFO - 21:21:50: Word2Vec lifecycle event {'msg': 'effective_min_count=20 retains 0 unique words (0.0%% of original 0, drops 0)', 'datetime': '2021-10-20T21:21:50.893787', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'prepare_vocab'}
+INFO - 21:21:50: Word2Vec lifecycle event {'msg': 'effective_min_count=20 leaves 0 word corpus (0.0%% of original 0, drops 0)', 'datetime': '2021-10-20T21:21:50.893787', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'prepare_vocab'}
+INFO - 21:21:50: deleting the raw counts dictionary of 0 items
+INFO - 21:21:50: sample=6e-05 downsamples 0 most-common words
+INFO - 21:21:50: Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 0 word corpus (0.0%% of prior 0)', 'datetime': '2021-10-20T21:21:50.893787', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'prepare_vocab'}
+INFO - 21:21:50: estimated required memory for 0 words and 100 dimensions: 0 bytes
+INFO - 21:21:50: resetting layer weights
+INFO - 21:21:50: Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2021-10-20T21:21:50.893787', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'build_vocab'}
+DEBUG - 21:21:50: Generacion del vocabulario, completado. 
+
+DEBUG - 21:21:50: Tiempo de Generacion del vocabulario: 0.0 mins 
+
+DEBUG - 21:34:10: van 1 libros normalizados en memoria
+DEBUG - 21:34:10: El texto tiene un tamanio en memoria de0.078244 Mb 
+
+DEBUG - 21:34:10: Normalizacion del texto terminada 
+
+DEBUG - 21:34:10: Tiempo de normalizacion: 0.0 mins 
+
+DEBUG - 21:34:10: Tokenizacion de frases completada
+DEBUG - 21:34:10: Tiempo de Tokenizacion de frases: 0.0 mins 
+
+DEBUG - 21:34:10: Tokenizacion de palabras completada 
+
+DEBUG - 21:34:10: Tiempo de Tokenizacion de palabras: 0.0 mins 
+
+DEBUG - 21:34:12: Retiradas palabras de parada 
+
+DEBUG - 21:34:12: Tiempo de Retiradas palabras de parada: 0.02 mins 
+
+DEBUG - 21:34:12: starting a new internal lifecycle event log for Word2Vec
+INFO - 21:34:12: Word2Vec lifecycle event {'params': 'Word2Vec(vocab=0, vector_size=100, alpha=0.03)', 'datetime': '2021-10-20T21:34:12.043995', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'created'}
+DEBUG - 21:34:12: Creación del modelo 
+
+DEBUG - 21:34:12: Tiempo de creacion del modelo: 0.0 mins 
+
+INFO - 21:34:12: collecting all words and their counts
+INFO - 21:34:12: PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - 21:34:12: collected 2886 word types from a corpus of 3707 raw words and 1 sentences
+INFO - 21:34:12: Creating a fresh vocabulary
+INFO - 21:34:12: Word2Vec lifecycle event {'msg': 'effective_min_count=20 retains 3 unique words (0.10395010395010396%% of original 2886, drops 2883)', 'datetime': '2021-10-20T21:34:12.044996', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'prepare_vocab'}
+INFO - 21:34:12: Word2Vec lifecycle event {'msg': 'effective_min_count=20 leaves 91 word corpus (2.4548152144591313%% of original 3707, drops 3616)', 'datetime': '2021-10-20T21:34:12.045997', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'prepare_vocab'}
+INFO - 21:34:12: deleting the raw counts dictionary of 2886 items
+INFO - 21:34:12: sample=6e-05 downsamples 3 most-common words
+INFO - 21:34:12: Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 1.234791359517775 word corpus (1.4%% of prior 91)', 'datetime': '2021-10-20T21:34:12.045997', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'prepare_vocab'}
+INFO - 21:34:12: estimated required memory for 3 words and 100 dimensions: 3900 bytes
+INFO - 21:34:12: resetting layer weights
+INFO - 21:34:12: Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2021-10-20T21:34:12.051002', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'build_vocab'}
+DEBUG - 21:34:12: Generacion del vocabulario, completado. 
+
+DEBUG - 21:34:12: Tiempo de Generacion del vocabulario: 0.0 mins 
+
+INFO - 21:34:12: Word2Vec lifecycle event {'msg': 'training model with 15 workers on 3 vocabulary and 100 features, using sg=0 hs=0 sample=6e-05 negative=20 window=2 shrink_windows=True', 'datetime': '2021-10-20T21:34:12.051002', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'train'}
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 1 : training on 3707 raw words (0 effective words) took 0.0s, 0 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 2 : training on 3707 raw words (3 effective words) took 0.0s, 126 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 3 : training on 3707 raw words (1 effective words) took 0.0s, 403 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 4 : training on 3707 raw words (1 effective words) took 0.0s, 413 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 5 : training on 3707 raw words (1 effective words) took 0.0s, 404 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 6 : training on 3707 raw words (0 effective words) took 0.0s, 0 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 7 : training on 3707 raw words (2 effective words) took 0.0s, 814 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 8 : training on 3707 raw words (0 effective words) took 0.0s, 0 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 9 : training on 3707 raw words (1 effective words) took 0.0s, 401 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 10 : training on 3707 raw words (2 effective words) took 0.0s, 804 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 11 : training on 3707 raw words (1 effective words) took 0.0s, 424 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 12 : training on 3707 raw words (2 effective words) took 0.0s, 821 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 13 : training on 3707 raw words (3 effective words) took 0.0s, 1227 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 14 : training on 3707 raw words (2 effective words) took 0.0s, 809 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 15 : training on 3707 raw words (2 effective words) took 0.0s, 780 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 16 : training on 3707 raw words (1 effective words) took 0.0s, 394 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 17 : training on 3707 raw words (2 effective words) took 0.0s, 807 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 18 : training on 3707 raw words (1 effective words) took 0.0s, 391 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 19 : training on 3707 raw words (0 effective words) took 0.0s, 0 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 20 : training on 3707 raw words (0 effective words) took 0.0s, 0 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 21 : training on 3707 raw words (0 effective words) took 0.0s, 0 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 22 : training on 3707 raw words (2 effective words) took 0.0s, 805 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 23 : training on 3707 raw words (1 effective words) took 0.0s, 408 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 24 : training on 3707 raw words (1 effective words) took 0.0s, 404 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 25 : training on 3707 raw words (1 effective words) took 0.0s, 395 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 26 : training on 3707 raw words (1 effective words) took 0.0s, 394 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 27 : training on 3707 raw words (1 effective words) took 0.0s, 396 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 28 : training on 3707 raw words (1 effective words) took 0.0s, 402 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 29 : training on 3707 raw words (2 effective words) took 0.0s, 803 effective words/s
+DEBUG - 21:34:12: job loop exiting, total 1 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 0 jobs
+DEBUG - 21:34:12: worker exiting, processed 1 jobs
+INFO - 21:34:12: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 1 more threads
+INFO - 21:34:12: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:34:12: EPOCH - 30 : training on 3707 raw words (2 effective words) took 0.0s, 824 effective words/s
+INFO - 21:34:12: Word2Vec lifecycle event {'msg': 'training on 111210 raw words (37 effective words) took 0.2s, 205 effective words/s', 'datetime': '2021-10-20T21:34:12.232148', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'train'}
+DEBUG - 21:34:12: Entrenamiento del modelo COMPLETADiSIMO 
+
+DEBUG - 21:34:12: Tiempo de entrenamiento: 0.0 mins 
+
+INFO - 21:34:12: Word2Vec lifecycle event {'fname_or_handle': 'Supermentonen.model', 'separately': 'None', 'sep_limit': 10485760, 'ignore': frozenset(), 'datetime': '2021-10-20T21:34:12.232148', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'saving'}
+INFO - 21:34:12: not storing attribute cum_table
+DEBUG - 21:34:12: {'uri': 'Supermentonen.model', 'mode': 'wb', 'buffering': -1, 'encoding': None, 'errors': None, 'newline': None, 'closefd': True, 'opener': None, 'ignore_ext': False, 'compression': None, 'transport_params': None}
+INFO - 21:34:12: saved Supermentonen.model
+DEBUG - 21:44:02: van 1 libros normalizados en memoria
+DEBUG - 21:44:02: van 1 libros normalizados en memoria
+DEBUG - 21:44:02: van 1 libros normalizados en memoria
+DEBUG - 21:44:08: El texto tiene un tamanio en memoria de10.125598 Mb 
+
+DEBUG - 21:44:08: Normalizacion del texto terminada 
+
+DEBUG - 21:44:08: Tiempo de normalizacion: 0.09 mins 
+
+DEBUG - 21:44:08: Tokenizacion de frases completada
+DEBUG - 21:44:08: Tiempo de Tokenizacion de frases: 0.01 mins 
+
+DEBUG - 21:44:10: Tokenizacion de palabras completada 
+
+DEBUG - 21:44:10: Tiempo de Tokenizacion de palabras: 0.04 mins 
+
+DEBUG - 21:47:21: Retiradas palabras de parada 
+
+DEBUG - 21:47:21: Tiempo de Retiradas palabras de parada: 3.17 mins 
+
+DEBUG - 21:47:21: starting a new internal lifecycle event log for Word2Vec
+INFO - 21:47:21: Word2Vec lifecycle event {'params': 'Word2Vec(vocab=0, vector_size=100, alpha=0.03)', 'datetime': '2021-10-20T21:47:21.268538', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'created'}
+DEBUG - 21:47:21: Creación del modelo 
+
+DEBUG - 21:47:21: Tiempo de creacion del modelo: 0.0 mins 
+
+INFO - 21:47:21: collecting all words and their counts
+INFO - 21:47:21: PROGRESS: at sentence #0, processed 0 words, keeping 0 word types
+INFO - 21:47:21: collected 32061 word types from a corpus of 417533 raw words and 1 sentences
+INFO - 21:47:21: Creating a fresh vocabulary
+INFO - 21:47:21: Word2Vec lifecycle event {'msg': 'effective_min_count=20 retains 2976 unique words (9.282305604940582%% of original 32061, drops 29085)', 'datetime': '2021-10-20T21:47:21.337600', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'prepare_vocab'}
+INFO - 21:47:21: Word2Vec lifecycle event {'msg': 'effective_min_count=20 leaves 322487 word corpus (77.23629030519743%% of original 417533, drops 95046)', 'datetime': '2021-10-20T21:47:21.338601', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'prepare_vocab'}
+INFO - 21:47:21: deleting the raw counts dictionary of 32061 items
+INFO - 21:47:21: sample=6e-05 downsamples 1245 most-common words
+INFO - 21:47:21: Word2Vec lifecycle event {'msg': 'downsampling leaves estimated 146814.18287445224 word corpus (45.5%% of prior 322487)', 'datetime': '2021-10-20T21:47:21.351613', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'prepare_vocab'}
+INFO - 21:47:21: estimated required memory for 2976 words and 100 dimensions: 3868800 bytes
+INFO - 21:47:21: resetting layer weights
+INFO - 21:47:21: Word2Vec lifecycle event {'update': False, 'trim_rule': 'None', 'datetime': '2021-10-20T21:47:21.375635', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'build_vocab'}
+DEBUG - 21:47:21: Generacion del vocabulario, completado. 
+
+DEBUG - 21:47:21: Tiempo de Generacion del vocabulario: 0.0 mins 
+
+INFO - 21:47:21: Word2Vec lifecycle event {'msg': 'training model with 15 workers on 2976 vocabulary and 100 features, using sg=0 hs=0 sample=6e-05 negative=20 window=2 shrink_windows=True', 'datetime': '2021-10-20T21:47:21.375635', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'train'}
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 1 : training on 417533 raw words (10000 effective words) took 0.0s, 380287 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 2 : training on 417533 raw words (10000 effective words) took 0.0s, 385224 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 3 : training on 417533 raw words (10000 effective words) took 0.0s, 390010 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 4 : training on 417533 raw words (10000 effective words) took 0.0s, 387630 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 5 : training on 417533 raw words (10000 effective words) took 0.0s, 389169 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 6 : training on 417533 raw words (10000 effective words) took 0.0s, 385263 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 7 : training on 417533 raw words (10000 effective words) took 0.0s, 386244 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 8 : training on 417533 raw words (10000 effective words) took 0.0s, 385947 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 9 : training on 417533 raw words (10000 effective words) took 0.0s, 389247 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 10 : training on 417533 raw words (10000 effective words) took 0.0s, 389096 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 11 : training on 417533 raw words (10000 effective words) took 0.0s, 392191 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 12 : training on 417533 raw words (10000 effective words) took 0.0s, 383696 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 13 : training on 417533 raw words (10000 effective words) took 0.0s, 383812 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 14 : training on 417533 raw words (10000 effective words) took 0.0s, 387397 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 15 : training on 417533 raw words (10000 effective words) took 0.0s, 388543 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 16 : training on 417533 raw words (10000 effective words) took 0.0s, 390663 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 17 : training on 417533 raw words (10000 effective words) took 0.0s, 389066 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 18 : training on 417533 raw words (10000 effective words) took 0.0s, 395335 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 19 : training on 417533 raw words (10000 effective words) took 0.0s, 388668 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 20 : training on 417533 raw words (10000 effective words) took 0.0s, 387962 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:21: worker exiting, processed 2 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:21: EPOCH - 21 : training on 417533 raw words (10000 effective words) took 0.0s, 391711 effective words/s
+DEBUG - 21:47:21: job loop exiting, total 2 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+DEBUG - 21:47:21: worker exiting, processed 0 jobs
+INFO - 21:47:21: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:21: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:22: worker exiting, processed 2 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:22: EPOCH - 22 : training on 417533 raw words (10000 effective words) took 0.0s, 389279 effective words/s
+DEBUG - 21:47:22: job loop exiting, total 2 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:22: worker exiting, processed 2 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:22: EPOCH - 23 : training on 417533 raw words (10000 effective words) took 0.0s, 389611 effective words/s
+DEBUG - 21:47:22: job loop exiting, total 2 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:22: worker exiting, processed 2 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:22: EPOCH - 24 : training on 417533 raw words (10000 effective words) took 0.0s, 388264 effective words/s
+DEBUG - 21:47:22: job loop exiting, total 2 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:22: worker exiting, processed 2 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:22: EPOCH - 25 : training on 417533 raw words (10000 effective words) took 0.0s, 380949 effective words/s
+DEBUG - 21:47:22: job loop exiting, total 2 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:22: worker exiting, processed 2 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:22: EPOCH - 26 : training on 417533 raw words (10000 effective words) took 0.0s, 361834 effective words/s
+DEBUG - 21:47:22: job loop exiting, total 2 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:22: worker exiting, processed 2 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:22: EPOCH - 27 : training on 417533 raw words (10000 effective words) took 0.0s, 379894 effective words/s
+DEBUG - 21:47:22: job loop exiting, total 2 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:22: worker exiting, processed 2 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:22: EPOCH - 28 : training on 417533 raw words (10000 effective words) took 0.0s, 379279 effective words/s
+DEBUG - 21:47:22: job loop exiting, total 2 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:22: worker exiting, processed 2 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:22: EPOCH - 29 : training on 417533 raw words (10000 effective words) took 0.0s, 391477 effective words/s
+DEBUG - 21:47:22: job loop exiting, total 2 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+DEBUG - 21:47:22: worker exiting, processed 0 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 14 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 13 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 12 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 11 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 10 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 9 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 8 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 7 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 6 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 5 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 4 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 3 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 2 more threads
+INFO - 21:47:22: worker thread finished; awaiting finish of 1 more threads
+DEBUG - 21:47:22: worker exiting, processed 2 jobs
+INFO - 21:47:22: worker thread finished; awaiting finish of 0 more threads
+INFO - 21:47:22: EPOCH - 30 : training on 417533 raw words (10000 effective words) took 0.0s, 389818 effective words/s
+INFO - 21:47:22: Word2Vec lifecycle event {'msg': 'training on 12525990 raw words (300000 effective words) took 0.9s, 346695 effective words/s', 'datetime': '2021-10-20T21:47:22.241421', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'train'}
+DEBUG - 21:47:22: Entrenamiento del modelo COMPLETADiSIMO 
+
+DEBUG - 21:47:22: Tiempo de entrenamiento: 0.01 mins 
+
+INFO - 21:47:22: Word2Vec lifecycle event {'fname_or_handle': 'Supermentonen.model', 'separately': 'None', 'sep_limit': 10485760, 'ignore': frozenset(), 'datetime': '2021-10-20T21:47:22.241421', 'gensim': '4.1.2', 'python': '3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.19041-SP0', 'event': 'saving'}
+INFO - 21:47:22: not storing attribute cum_table
+DEBUG - 21:47:22: {'uri': 'Supermentonen.model', 'mode': 'wb', 'buffering': -1, 'encoding': None, 'errors': None, 'newline': None, 'closefd': True, 'opener': None, 'ignore_ext': False, 'compression': None, 'transport_params': None}
+INFO - 21:47:22: saved Supermentonen.model
+DEBUG - 22:47:14: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 22:47:20: [LEM]-->El texto tiene un tamanio en memoria de10.125118 Mb
+DEBUG - 22:47:20: [LEM]-->Normalizacion del texto terminada
+DEBUG - 22:47:20: [LEM]-->Tiempo de normalizacion: 0.1 mins
+DEBUG - 22:47:21: [LEM]-->Tokenizacion de frases completada
+DEBUG - 22:47:21: [LEM]-->Tiempo de Tokenizacion de frases: 0.02 mins
+DEBUG - 22:47:26: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 22:47:26: [LEM]-->Tiempo de Tokenizacion de palabras: 0.09 mins
+DEBUG - 22:51:19: [LEM]-->Retiradas palabras de parada
+DEBUG - 22:51:19: [LEM]-->Tiempo de Retiradas palabras de parada: 3.88 mins 
+
+DEBUG - 22:51:19: [LEM]-->Tiempo de ejecución completa del lematizador: 4.09 mins
