@@ -10758,3 +10758,75 @@ DEBUG - 00:44:07: [LEM]-->Retiradas palabras de parada
 DEBUG - 00:44:07: [LEM]-->Tiempo de Retiradas palabras de parada: 3.0 mins 
 
 DEBUG - 00:44:07: [LEM]-->Tiempo de ejecución completa del lematizador: 3.05 mins
+DEBUG - 00:57:00: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 00:57:00: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 00:57:00: [LEM]-->Normalizacion del texto terminada
+DEBUG - 00:57:00: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 00:57:00: [LEM]-->Tokenizacion de frases completada
+DEBUG - 00:57:00: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 00:57:00: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 00:57:00: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 00:57:30: [LEM]-->Retiradas palabras de parada
+DEBUG - 00:57:30: [LEM]-->Tiempo de Retiradas palabras de parada: 0.5 mins 
+
+DEBUG - 00:57:30: [LEM]-->Tiempo de ejecución completa del lematizador: 0.51 mins
+DEBUG - 01:01:47: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 01:01:47: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 01:01:47: [LEM]-->Normalizacion del texto terminada
+DEBUG - 01:01:47: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 01:01:47: [LEM]-->Tokenizacion de frases completada
+DEBUG - 01:01:47: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 01:01:47: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 01:01:47: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 01:02:20: [LEM]-->Retiradas palabras de parada
+DEBUG - 01:02:20: [LEM]-->Tiempo de Retiradas palabras de parada: 0.54 mins 
+
+DEBUG - 01:02:20: [LEM]-->Tiempo de ejecución completa del lematizador: 0.55 mins
+DEBUG - 01:04:34: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 01:04:34: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 01:04:34: [LEM]-->Normalizacion del texto terminada
+DEBUG - 01:04:34: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 01:04:34: [LEM]-->Tokenizacion de frases completada
+DEBUG - 01:04:34: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 01:04:34: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 01:04:34: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 01:05:08: [LEM]-->Retiradas palabras de parada
+DEBUG - 01:05:08: [LEM]-->Tiempo de Retiradas palabras de parada: 0.56 mins 
+
+DEBUG - 01:05:08: [LEM]-->Tiempo de ejecución completa del lematizador: 0.57 mins
+DEBUG - 01:11:51: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 01:11:51: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 01:11:51: [LEM]-->Normalizacion del texto terminada
+DEBUG - 01:11:51: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 01:11:51: [LEM]-->Tokenizacion de frases completada
+DEBUG - 01:11:51: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 01:11:51: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 01:11:51: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 01:13:58: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 01:13:58: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 01:13:58: [LEM]-->Normalizacion del texto terminada
+DEBUG - 01:13:58: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 01:13:58: [LEM]-->Tokenizacion de frases completada
+DEBUG - 01:13:58: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 01:13:58: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 01:13:58: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 01:14:44: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 01:14:44: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 01:14:44: [LEM]-->Normalizacion del texto terminada
+DEBUG - 01:14:44: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 01:14:44: [LEM]-->Tokenizacion de frases completada
+DEBUG - 01:14:44: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 01:14:44: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 01:14:44: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 01:18:02: [LEM]-->van 1 libros normalizados en memoria
+DEBUG - 01:18:02: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 01:18:02: [LEM]-->Normalizacion del texto terminada
+DEBUG - 01:18:02: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 01:18:02: [LEM]-->Tokenizacion de frases completada
+DEBUG - 01:18:02: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 01:18:03: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 01:18:03: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 01:18:35: [LEM]-->Retiradas palabras de parada
+DEBUG - 01:18:35: [LEM]-->Tiempo de Retiradas palabras de parada: 0.54 mins 
+
+DEBUG - 01:18:35: [LEM]-->Tiempo de ejecución completa del lematizador: 0.55 mins
