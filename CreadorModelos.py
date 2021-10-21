@@ -76,6 +76,7 @@ logging.debug('[CreaModelos]--> Entrenamiento del modelo COMPLETADiSIMO \n')
 logging.debug('[CreaModelos]--> Tiempo de entrenamiento: {} mins \n'.format(round((time() - t) / 60, 2)))
 
 modeloW2V.save('.\Modelos\\'+corpusdire+'.model')
+logging.debug('[CreaModelos]--> Modelo guardado]')
 
 
 
