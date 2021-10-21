@@ -10830,3 +10830,94 @@ DEBUG - 01:18:35: [LEM]-->Retiradas palabras de parada
 DEBUG - 01:18:35: [LEM]-->Tiempo de Retiradas palabras de parada: 0.54 mins 
 
 DEBUG - 01:18:35: [LEM]-->Tiempo de ejecución completa del lematizador: 0.55 mins
+DEBUG - 01:55:24: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 01:55:24: [LEM]-->Normalizacion del texto terminada
+DEBUG - 01:55:24: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 01:55:24: [LEM]-->Tokenizacion de frases completada
+DEBUG - 01:55:24: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 01:55:24: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 01:55:24: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 01:55:54: [LEM]-->Retiradas palabras de parada
+DEBUG - 01:55:54: [LEM]-->Tiempo de Retiradas palabras de parada: 0.5 mins 
+
+DEBUG - 01:55:54: [LEM]-->Tiempo de ejecución completa del lematizador: 0.51 mins
+DEBUG - 01:55:54: Starting new HTTP connection (1): www.corpus.unam.mx:80
+DEBUG - 01:57:13: http://www.corpus.unam.mx:80 "POST /servicio-freeling/analyze.php?outf=tagged&format=json HTTP/1.1" 200 None
+DEBUG - 01:59:21: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 01:59:21: [LEM]-->Normalizacion del texto terminada
+DEBUG - 01:59:21: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 01:59:21: [LEM]-->Tokenizacion de frases completada
+DEBUG - 01:59:21: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 01:59:21: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 01:59:21: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 01:59:52: [LEM]-->Retiradas palabras de parada
+DEBUG - 01:59:52: [LEM]-->Tiempo de Retiradas palabras de parada: 0.51 mins 
+
+DEBUG - 01:59:52: [LEM]-->Tiempo de ejecución completa del lematizador: 0.52 mins
+DEBUG - 01:59:52: Starting new HTTP connection (1): www.corpus.unam.mx:80
+DEBUG - 02:01:10: http://www.corpus.unam.mx:80 "POST /servicio-freeling/analyze.php?outf=tagged&format=json HTTP/1.1" 200 None
+DEBUG - 02:08:03: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 02:08:03: [LEM]-->Normalizacion del texto terminada
+DEBUG - 02:08:03: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 02:08:03: [LEM]-->Tokenizacion de frases completada
+DEBUG - 02:08:03: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 02:08:04: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 02:08:04: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 02:08:34: [LEM]-->Retiradas palabras de parada
+DEBUG - 02:08:34: [LEM]-->Tiempo de Retiradas palabras de parada: 0.5 mins 
+
+DEBUG - 02:08:34: [LEM]-->Tiempo de ejecución completa del lematizador: 0.51 mins
+DEBUG - 02:08:34: Starting new HTTP connection (1): www.corpus.unam.mx:80
+DEBUG - 02:09:52: http://www.corpus.unam.mx:80 "POST /servicio-freeling/analyze.php?outf=tagged&format=json HTTP/1.1" 200 None
+DEBUG - 02:13:16: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 02:13:16: [LEM]-->Normalizacion del texto terminada
+DEBUG - 02:13:16: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 02:13:16: [LEM]-->Tokenizacion de frases completada
+DEBUG - 02:13:16: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 02:13:16: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 02:13:16: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 02:13:46: [LEM]-->Retiradas palabras de parada
+DEBUG - 02:13:46: [LEM]-->Tiempo de Retiradas palabras de parada: 0.5 mins 
+
+DEBUG - 02:13:46: [LEM]-->Tiempo de ejecución completa del lematizador: 0.51 mins
+DEBUG - 02:13:46: Starting new HTTP connection (1): www.corpus.unam.mx:80
+DEBUG - 02:15:05: http://www.corpus.unam.mx:80 "POST /servicio-freeling/analyze.php?outf=tagged&format=json HTTP/1.1" 200 None
+DEBUG - 02:18:36: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 02:18:36: [LEM]-->Normalizacion del texto terminada
+DEBUG - 02:18:36: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 02:18:36: [LEM]-->Tokenizacion de frases completada
+DEBUG - 02:18:36: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 02:18:36: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 02:18:36: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 02:19:06: [LEM]-->Retiradas palabras de parada
+DEBUG - 02:19:06: [LEM]-->Tiempo de Retiradas palabras de parada: 0.49 mins 
+
+DEBUG - 02:19:06: [LEM]-->Tiempo de ejecución completa del lematizador: 0.5 mins
+DEBUG - 02:19:06: Starting new HTTP connection (1): www.corpus.unam.mx:80
+DEBUG - 02:20:25: http://www.corpus.unam.mx:80 "POST /servicio-freeling/analyze.php?outf=tagged&format=json HTTP/1.1" 200 None
+DEBUG - 02:22:22: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 02:22:22: [LEM]-->Normalizacion del texto terminada
+DEBUG - 02:22:22: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 02:22:22: [LEM]-->Tokenizacion de frases completada
+DEBUG - 02:22:22: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 02:22:22: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 02:22:22: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 02:22:52: [LEM]-->Retiradas palabras de parada
+DEBUG - 02:22:52: [LEM]-->Tiempo de Retiradas palabras de parada: 0.49 mins 
+
+DEBUG - 02:22:52: [LEM]-->Tiempo de ejecución completa del lematizador: 0.5 mins
+DEBUG - 02:22:52: Starting new HTTP connection (1): www.corpus.unam.mx:80
+DEBUG - 02:24:11: http://www.corpus.unam.mx:80 "POST /servicio-freeling/analyze.php?outf=tagged&format=json HTTP/1.1" 200 None
+DEBUG - 02:28:11: [LEM]-->El texto tiene un tamanio en memoria de0.81558 Mb
+DEBUG - 02:28:11: [LEM]-->Normalizacion del texto terminada
+DEBUG - 02:28:11: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 02:28:11: [LEM]-->Tokenizacion de frases completada
+DEBUG - 02:28:11: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 02:28:12: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 02:28:12: [LEM]-->Tiempo de Tokenizacion de palabras: 0.01 mins
+DEBUG - 02:28:41: [LEM]-->Retiradas palabras de parada
+DEBUG - 02:28:41: [LEM]-->Tiempo de Retiradas palabras de parada: 0.49 mins 
+
+DEBUG - 02:28:41: [LEM]-->Tiempo de ejecución completa del lematizador: 0.5 mins
+DEBUG - 02:28:41: Starting new HTTP connection (1): www.corpus.unam.mx:80
+DEBUG - 02:29:59: http://www.corpus.unam.mx:80 "POST /servicio-freeling/analyze.php?outf=tagged&format=json HTTP/1.1" 200 None

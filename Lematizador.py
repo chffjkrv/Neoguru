@@ -1,3 +1,4 @@
+import json
 import re
 import nltk
 from nltk.corpus import stopwords
@@ -6,6 +7,7 @@ from sys import getsizeof
 import os
 import logging
 import subprocess
+import requests
 
 from nltk.corpus.reader.framenet import FramenetCorpusReader
 
@@ -24,7 +26,6 @@ Lematizado.close()
 Lematizado2FL = telematizo+'Lematizado.txt'
 Prelematizado2FL = telematizo+'_SW.txt'
 texto = ''
-cont = 1
 t_general = time()
 t = time()
 
@@ -32,8 +33,6 @@ txt = open('.\Libros\\'+telematizo+'.txt', 'r').read()
 txt = txt.lower()
 txt = re.sub('[0-9]|[\(]|[\)]|[#]|[-]|[\[]|[\]]|[\']|[¿]|[?]|[¡]|[!]|[,]|[.]|[:]|[;]', ' ', txt)
 corpusTXT.write(txt)
-cont=+1
-logging.debug('[LEM]-->van '+ str(cont) +' libros normalizados en memoria')
 
 corpusTXT.close()
 corpusTXT = open('.\corpus\corpusTXT.txt', 'r')
@@ -68,12 +67,22 @@ for i in range(len(palabras)):
 
 logging.debug('[LEM]-->Retiradas palabras de parada')
 logging.debug('[LEM]-->Tiempo de Retiradas palabras de parada: {} mins \n'.format(round((time() - t) / 60, 2)))
-print('withdrawing the palabras de parada (fuckoff maldita)...\n')
 
 Prelematizado.close()
 logging.debug('[LEM]-->Tiempo de ejecución completa del lematizador: {} mins'.format(round((time() - t_general) / 60, 2)))
 print('\n Mandando cosas para que te devuelvan cosas\n')
-subprocess.call('curl -F file=@'+Prelematizado2FL+' "http://www.corpus.unam.mx/servicio-freeling/analyze.php?outf=tagged&format=plain" -o ' + Lematizado2FL, shell = True)
+
+files = {'file':open(Prelematizado2FL,'rb')}
+params = {'outf':'tagged', 'format':'json'}
+url = 'http://www.corpus.unam.mx/servicio-freeling/analyze.php'
+r = requests.post(url, files=files, params=params)
+
+obj = r.json()
+jason=open('.\jasones\\'+telematizo+'Lematizado.json', 'w')
+json.dump(obj, jason, indent=4)
+jason.close()
+
+#subprocess.call('curl -F file=@'+Prelematizado2FL+' "http://www.corpus.unam.mx/servicio-freeling/analyze.php?outf=tagged&format=plain" -o ' + Lematizado2FL, shell = True)
 
 
 
