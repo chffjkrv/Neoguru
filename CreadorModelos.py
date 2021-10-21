@@ -12,19 +12,16 @@ import sys
 import codecs
 
 logging.basicConfig(format="%(levelname)s - %(asctime)s: %(message)s", datefmt= '%H:%M:%S',filename='.\log\log.log', level=logging.DEBUG)
-corpus = [archivo for archivo in  os.listdir(os.getcwd()) if archivo[-3:] == 'txt']
+corpusdire = input("Que te modelo: ")
+corpus = '.\Libros\\'+corpusdire+'.txt'
 corpusTXT = open('.\corpus\corpusTXT.txt', 'w')
 texto = ''
-cont = 1
 t = time()
-for archivo in corpus:
-
-    txt = open(archivo, 'r').read()
-    txt = txt.lower()
-    txt = re.sub('[0-9]|[\(]|[\)]|[#]|[-]|[\[]|[\]]|[\']|[¿]|[?]|[¡]|[!]|[,]|[.]|[:]|[;]', ' ', txt)
-    corpusTXT.write(txt)
-    cont=+1
-    logging.debug('[CreaModelos]--> van '+ str(cont) +' libros normalizados en memoria')
+txt = open(corpus, 'r').read()
+txt = txt.lower()
+txt = re.sub('[0-9]|[\(]|[\)]|[#]|[-]|[\[]|[\]]|[\']|[¿]|[?]|[¡]|[!]|[,]|[.]|[:]|[;]', ' ', txt)
+corpusTXT.write(txt)
+cont=+1
 corpusTXT.close()
 
 corpusTXT = open('.\corpus\corpusTXT.txt', 'r')
@@ -63,10 +60,10 @@ modeloW2V = Word2Vec(min_count=20,
                      min_alpha=0.0007, 
                      negative=20,
                      workers=cores-1)
-                     
+
 logging.debug('[CreaModelos]--> Creación del modelo \n')
 logging.debug('[CreaModelos]--> Tiempo de creacion del modelo: {} mins \n'.format(round((time() - t) / 60, 2)))
-print(type(modeloW2V))
+
 
 t = time()
 modeloW2V.build_vocab(palabras, progress_per=10000)
@@ -78,7 +75,7 @@ modeloW2V.train(palabras, total_examples=modeloW2V.corpus_count, epochs=30, repo
 logging.debug('[CreaModelos]--> Entrenamiento del modelo COMPLETADiSIMO \n')
 logging.debug('[CreaModelos]--> Tiempo de entrenamiento: {} mins \n'.format(round((time() - t) / 60, 2)))
 
-modeloW2V.save('Supermentonen.model')
+modeloW2V.save('.\Modelos\\'+corpusdire+'.model')
 
 
 
