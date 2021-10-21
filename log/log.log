@@ -10921,3 +10921,18 @@ DEBUG - 02:28:41: [LEM]-->Tiempo de Retiradas palabras de parada: 0.49 mins
 DEBUG - 02:28:41: [LEM]-->Tiempo de ejecución completa del lematizador: 0.5 mins
 DEBUG - 02:28:41: Starting new HTTP connection (1): www.corpus.unam.mx:80
 DEBUG - 02:29:59: http://www.corpus.unam.mx:80 "POST /servicio-freeling/analyze.php?outf=tagged&format=json HTTP/1.1" 200 None
+DEBUG - 03:13:24: [LEM]-->El texto tiene un tamanio en memoria de0.078244 Mb
+DEBUG - 03:13:24: [LEM]-->Normalizacion del texto terminada
+DEBUG - 03:13:24: [LEM]-->Tiempo de normalizacion: 0.0 mins
+DEBUG - 03:13:24: [LEM]-->Tokenizacion de frases completada
+DEBUG - 03:13:24: [LEM]-->Tiempo de Tokenizacion de frases: 0.0 mins
+DEBUG - 03:13:24: [LEM]-->Tokenizacion de palabras completada
+DEBUG - 03:13:24: [LEM]-->Tiempo de Tokenizacion de palabras: 0.0 mins
+DEBUG - 03:13:25: [LEM]-->Retiradas palabras de parada
+DEBUG - 03:13:25: [LEM]-->Tiempo de Retiradas palabras de parada: 0.02 mins 
+
+DEBUG - 03:13:25: [LEM]-->Tiempo de ejecución completa del lematizador: 0.02 mins
+DEBUG - 03:13:25: [LEM]--> Lanzamos la request
+DEBUG - 03:13:25: Starting new HTTP connection (1): www.corpus.unam.mx:80
+DEBUG - 03:13:27: http://www.corpus.unam.mx:80 "POST /servicio-freeling/analyze.php?outf=tagged&format=json HTTP/1.1" 200 None
+DEBUG - 03:13:28: [LEM]--> requests.post(url, files=files, params=params)

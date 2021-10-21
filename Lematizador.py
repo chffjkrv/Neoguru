@@ -20,11 +20,11 @@ print('Voy \n')
 
 logging.basicConfig(format="%(levelname)s - %(asctime)s: %(message)s", datefmt= '%H:%M:%S',filename='.\log\log.log', level=logging.DEBUG)
 corpusTXT = open('.\corpus\corpusTXT.txt', 'w')
-Prelematizado = open(telematizo+'_SW.txt', 'wb')
-Lematizado = open(telematizo+'Lematizado.txt', 'w')
+Prelematizado2FL = '.\Prelematizado\\'+telematizo+'_SW.txt'
+Prelematizado = open(Prelematizado2FL, 'wb')
+Lematizado2FL = '.\Lematizaciones\\'+telematizo+'Lematizado.txt'
+Lematizado = open(Lematizado2FL, 'w')
 Lematizado.close()
-Lematizado2FL = telematizo+'Lematizado.txt'
-Prelematizado2FL = telematizo+'_SW.txt'
 texto = ''
 t_general = time()
 t = time()
@@ -69,13 +69,16 @@ logging.debug('[LEM]-->Retiradas palabras de parada')
 logging.debug('[LEM]-->Tiempo de Retiradas palabras de parada: {} mins \n'.format(round((time() - t) / 60, 2)))
 
 Prelematizado.close()
+
 logging.debug('[LEM]-->Tiempo de ejecución completa del lematizador: {} mins'.format(round((time() - t_general) / 60, 2)))
 print('\n Mandando cosas para que te devuelvan cosas\n')
+logging.debug('[LEM]--> Lanzamos la request')
 
 files = {'file':open(Prelematizado2FL,'rb')}
 params = {'outf':'tagged', 'format':'json'}
 url = 'http://www.corpus.unam.mx/servicio-freeling/analyze.php'
 r = requests.post(url, files=files, params=params)
+logging.debug('[LEM]--> requests.post(url, files=files, params=params)')
 
 obj = r.json()
 jason=open('.\jasones\\'+telematizo+'Lematizado.json', 'w')
