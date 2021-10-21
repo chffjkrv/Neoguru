@@ -82,7 +82,7 @@ jason=open('.\jasones\\'+telematizo+'Lematizado.json', 'w')
 json.dump(obj, jason, indent=4)
 jason.close()
 
-#subprocess.call('curl -F file=@'+Prelematizado2FL+' "http://www.corpus.unam.mx/servicio-freeling/analyze.php?outf=tagged&format=plain" -o ' + Lematizado2FL, shell = True)
+
 
 
 
@@ -92,6 +92,4 @@ jason.close()
 
 #LEMATIZADOR :   http://www.corpus.unam.mx/servicio-freeling
 
-#                iconv -f ANSI_X3.110 -t UTF-8 -o BibliaCoranKitabi_SW.TXT
-#                curl -F 'file=@BibliaCoranKitabi_SW.txt' "http://www.corpus.unam.mx/servicio-freeling/analyze.php?outf=tagged&format=plain" -o BCK_Lematizado.txtgit.txt
-
+#                subprocess.call('curl -F file=@'+Prelematizado2FL+' "http://www.corpus.unam.mx/servicio-freeling/analyze.php?outf=tagged&format=plain" -o ' + Lematizado2FL, shell = True)

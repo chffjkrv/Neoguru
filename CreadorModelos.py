@@ -24,7 +24,7 @@ for archivo in corpus:
     txt = re.sub('[0-9]|[\(]|[\)]|[#]|[-]|[\[]|[\]]|[\']|[¿]|[?]|[¡]|[!]|[,]|[.]|[:]|[;]', ' ', txt)
     corpusTXT.write(txt)
     cont=+1
-    logging.debug('van '+ str(cont) +' libros normalizados en memoria')
+    logging.debug('[CreaModelos]--> van '+ str(cont) +' libros normalizados en memoria')
 corpusTXT.close()
 
 corpusTXT = open('.\corpus\corpusTXT.txt', 'r')
@@ -32,27 +32,27 @@ corpusTXT = open('.\corpus\corpusTXT.txt', 'r')
 texto = corpusTXT.read()
 print(texto)
 SizeDataMb = getsizeof(texto)/1000000
-logging.debug('El texto tiene un tamanio en memoria de'+str(SizeDataMb)+' Mb \n')
-logging.debug('Normalizacion del texto terminada \n')
-logging.debug('Tiempo de normalizacion: {} mins \n'.format(round((time() - t) / 60, 2)))
+logging.debug('[CreaModelos]--> El texto tiene un tamanio en memoria de'+str(SizeDataMb)+' Mb \n')
+logging.debug('[CreaModelos]--> Normalizacion del texto terminada \n')
+logging.debug('[CreaModelos]--> Tiempo de normalizacion: {} mins \n'.format(round((time() - t) / 60, 2)))
 
 t = time()
 frases = nltk.sent_tokenize(texto)
 print(type(frases))
-logging.debug('Tokenizacion de frases completada') 
-logging.debug('Tiempo de Tokenizacion de frases: {} mins \n'.format(round((time() - t) / 60, 2)))
+logging.debug('[CreaModelos]--> Tokenizacion de frases completada') 
+logging.debug('[CreaModelos]--> Tiempo de Tokenizacion de frases: {} mins \n'.format(round((time() - t) / 60, 2)))
 
 t = time()
 palabras = [nltk.word_tokenize(sent) for sent in frases]
-logging.debug('Tokenizacion de palabras completada \n')
-logging.debug('Tiempo de Tokenizacion de palabras: {} mins \n'.format(round((time() - t) / 60, 2)))
+logging.debug('[CreaModelos]--> Tokenizacion de palabras completada \n')
+logging.debug('[CreaModelos]--> Tiempo de Tokenizacion de palabras: {} mins \n'.format(round((time() - t) / 60, 2)))
 
 t = time()
 
 for i in range(len(palabras)):
     palabras[i] = [w for w in palabras[i] if w not in stopwords.words('spanish')]
-logging.debug('Retiradas palabras de parada \n')
-logging.debug('Tiempo de Retiradas palabras de parada: {} mins \n'.format(round((time() - t) / 60, 2)))
+logging.debug('[CreaModelos]--> Retiradas palabras de parada \n')
+logging.debug('[CreaModelos]--> Tiempo de Retiradas palabras de parada: {} mins \n'.format(round((time() - t) / 60, 2)))
 cores = multiprocessing.cpu_count()
 
 t = time()
@@ -63,19 +63,20 @@ modeloW2V = Word2Vec(min_count=20,
                      min_alpha=0.0007, 
                      negative=20,
                      workers=cores-1)
-logging.debug('Creación del modelo \n')
-logging.debug('Tiempo de creacion del modelo: {} mins \n'.format(round((time() - t) / 60, 2)))
+                     
+logging.debug('[CreaModelos]--> Creación del modelo \n')
+logging.debug('[CreaModelos]--> Tiempo de creacion del modelo: {} mins \n'.format(round((time() - t) / 60, 2)))
 print(type(modeloW2V))
 
 t = time()
 modeloW2V.build_vocab(palabras, progress_per=10000)
-logging.debug('Generacion del vocabulario, completado. \n')
-logging.debug('Tiempo de Generacion del vocabulario: {} mins \n'.format(round((time() - t) / 60, 2)))
+logging.debug('[CreaModelos]--> Generacion del vocabulario, completado. \n')
+logging.debug('[CreaModelos]--> Tiempo de Generacion del vocabulario: {} mins \n'.format(round((time() - t) / 60, 2)))
 
 t = time()
 modeloW2V.train(palabras, total_examples=modeloW2V.corpus_count, epochs=30, report_delay=1)
-logging.debug('Entrenamiento del modelo COMPLETADiSIMO \n')
-logging.debug('Tiempo de entrenamiento: {} mins \n'.format(round((time() - t) / 60, 2)))
+logging.debug('[CreaModelos]--> Entrenamiento del modelo COMPLETADiSIMO \n')
+logging.debug('[CreaModelos]--> Tiempo de entrenamiento: {} mins \n'.format(round((time() - t) / 60, 2)))
 
 modeloW2V.save('Supermentonen.model')
 
