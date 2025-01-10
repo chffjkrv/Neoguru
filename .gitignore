@@ -1,0 +1,5 @@
+# Ignorar todos los archivos .txt en cualquier subcarpeta
+**.txt
+
+# Ignorar todos los entornos virtuales en cualquier subcarpeta
+**/venv/
